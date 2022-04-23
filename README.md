@@ -64,8 +64,3 @@
 9. 状态模式（State）
 10. 策略模式（Strategy）
 11. 职责链模式（Responsibilitychain）
-
-#### 2.2 结构型模式
-
-
-#### 2.3 行为型模式
