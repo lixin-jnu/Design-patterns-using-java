@@ -1,6 +1,6 @@
-## 设计模式（Design Pattern）
+## 设计模式（Design Patterns）
 
-- [设计模式（Design Pattern）](#设计模式design-pattern)
+- [设计模式（Design Patterns）](#设计模式design-patterns)
   - [0 项目简介](#0-项目简介)
   - [1 设计模式的七大原则](#1-设计模式的七大原则)
   - [2 设计模式的分类（共23种）](#2-设计模式的分类共23种)
@@ -55,7 +55,7 @@
 7. 代理模式（Proxy）
    - 静态代理；
    - 动态代理；
-   - Cglib 代理**（需要引入相应的 jar 包，已放入相应文件夹中）**。
+   - Cglib 代理（需要引入相应的 jar 包，已放入相应文件夹中）。
 
 #### 2.3 行为型模式（11种）
 
@@ -69,4 +69,4 @@
 8. 解释器模式（Interpreter）
 9. 状态模式（State）
 10. 策略模式（Strategy）
-11. 职责链模式（Responsibilitychain）
+11. 职责链模式（ResponsibilityChain）
