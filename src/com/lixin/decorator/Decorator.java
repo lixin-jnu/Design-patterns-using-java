@@ -1,5 +1,8 @@
 package com.lixin.decorator;
 
+/*
+ * 继承Drink类且聚合另一个Drink对象
+ */
 public class Decorator extends Drink {
 
     //聚合进Drink,对其进行装饰
