@@ -3,7 +3,7 @@ package com.lixin.decorator;
 public class Decorator extends Drink {
 
     //聚合进Drink,对其进行装饰
-	private Drink obj;
+    private Drink obj;
 
     public Decorator(Drink obj) {//聚合
         this.obj = obj;
